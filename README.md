@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Vanya Maheshwari</h1>
-<!-- <h3 align="left">Full-Stack Developer</h3> -->
 
 ---
 
@@ -53,10 +52,10 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/>
-</a>
- 
+</a> 
 </p>
 
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanya-001&show_icons=true&theme=dark)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya-001&hide_progress=true&theme=dark)
 
