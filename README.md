@@ -2,7 +2,7 @@
 
 ---
 
-- Highly motivated and result-oriented individual pursuing Bachelor’s degree in Computer Science with specialization Artificial Intelligence and Machine Learning (CGPA: 8.35) from UPES, Dehradun.
+- Highly motivated and result-oriented individual pursuing Bachelor’s degree in Computer Science with specialization Artificial Intelligence and Machine Learning (CGPA: 8.35) from UPES,Dehradun.
 - With a strong academic and extra-curricular background, I can prove to be the best choice for the desired position at your esteemed organization.
 - Goal oriented and hardworking problem solver ready to take up any challenge coming her way.
 - You can find all of my projects on either here on github or on my website - [**My Website**](https://career-path-showcase.netlify.app/)
