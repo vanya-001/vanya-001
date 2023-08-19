@@ -48,8 +48,9 @@
 </p>
 
 ---
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanya-001&show_icons=true&theme=dark) 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya-001&hide_progress=true&theme=dark) -->
 
 
