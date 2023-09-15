@@ -6,7 +6,7 @@
 - With a keen interest in Web Development, I have gained a professional skill and become experienced while devloping projects.
 - Goal oriented and hardworking problem solver ready to take up any challenge coming her way.
 - You can find all of my projects on either here on github.
-- If you want to Connect. Feel free to email me at - [**My Email**](vanimaheshwari19@gmail.com)
+- If you want to Connect, Feel free to email me at - [**My Email**](vanimaheshwari19@gmail.com)
 
 ---
 
