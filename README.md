@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Vanya Maheshwari</h1>
-
+ 
 ---
 
 - Highly motivated and result-oriented individual pursuing Bachelor’s degree in Computer Science with specialization in Artificial Intelligence and Machine Learning (CGPA: 8.35) from UPES, Dehradun.
