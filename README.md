@@ -3,7 +3,7 @@
 ---
 
 - Artificial Intelligence and Machine Learning from UPES, Dehradun.
-- With a keen interest in Web Development, I have gained a professional skill and be come experienced while devloping projects.
+- With a keen interest in Web Development, I have gained a professional skill and become experienced while devloping projects.
 - Goal oriented and hardworking problem solver ready to take up any challenge coming her way. 
 - If you want to connect, Feel free to email me at - [**My Email**](vanimaheshwari19@gmail.com)  
 
